@@ -1,6 +1,3 @@
-Certainly! Below is a sample README-style resume that you can use as a template. Replace the placeholder content with your own information:
-
-```markdown
 # John Doe - Full Stack Software Engineer
 
 ## Summary
@@ -61,7 +58,3 @@ University of XYZ | Graduation Year
 ## Awards and Achievements
 
 - [Any relevant awards or recognitions]
-
----
-
-Feel free to customize the content further based on your actual experiences, projects, and education. Use strong action verbs, quantify your achievements where possible, and tailor the resume to match the specific job description you're applying for.
