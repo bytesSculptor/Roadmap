@@ -1,7 +1,6 @@
 # John Doe - Full Stack Software Engineer
 
 ## Summary
-
 Experienced Full Stack Software Engineer with over 3 years of professional experience and a strong foundation in frontend and backend technologies. Specialized in creating innovative and impactful solutions, contributing to the success of high-profile projects. Proven ability to collaborate effectively with cross-functional teams. Excited to bring expertise to the field of AI training data at GlobalG2i.
 
 ## Contact
